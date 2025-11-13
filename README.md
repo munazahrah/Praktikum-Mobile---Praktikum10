@@ -1,4 +1,4 @@
-# Praktikum10
+# Praktikum 10
 
 Project Modul 10 - Integrasi GUI, Navigasi, & API (JSON Serialization)
 
